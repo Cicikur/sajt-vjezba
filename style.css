@@ -107,8 +107,9 @@ div[class="user"]>img {
 
 .pro img {
     position: absolute;
-    top: -10%;
+    top: 7%;
     right: 10%;
+    
 }
 
 .pro h2 {
@@ -170,6 +171,7 @@ div[class="user"]>img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .procenat {
